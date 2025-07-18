@@ -16,7 +16,7 @@ I'm always eager to learn more, improve my skills, and collaborate on exciting w
 <p align="left">
 <a href="https://twitter.com/ankitdey01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitdey01" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit-dey-0128x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-dey-0128x" height="30" width="40" /></a>
-<a href="https://instagram.com/annkkitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annkkitt" height="30" width="40" /></a>
+<a href="https://instagram.com/aankkittt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annkkitt" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
