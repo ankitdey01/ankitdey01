@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Dey</h1>
 <h3 align="center">A passionate developer from India!</h3>
+<h3 align="center">An undergraduate student pursuing Computer Engineering with a strong interest in building things that live on the internet. I enjoy turning ideas into real actual usable tools and experiences.
+
+I have well experience on JavaScript, TypeScript, Python, C, C++, HTML, CSS, MongoDB, and AWS. My focus currently lies in web development and bot building, where I’ve worked on several small to mid-sized personal projects that helped me understand full-stack workflows and real-world problem solving.
+
+I'm always eager to learn more, improve my skills, and collaborate on exciting web-based projects. Currently looking to expand my knowledge in scalable backend systems and modern frontend frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitdey01&label=Profile%20views&color=0e75b6&style=flat" alt="ankitdey01" /> </p>
 
