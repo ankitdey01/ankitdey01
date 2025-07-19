@@ -20,7 +20,7 @@ I'm always eager to learn more, improve my skills, and collaborate on exciting w
 </p>
 
 <div align="center">
-  <img height="150" src="https://tenor.com/fKc5Nv2lttP.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
