@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Dey</h1>
 
 <div align="center">
-  <img height="100" src="https://media1.tenor.com/m/QQKWGA9XcrcAAAAC/gigachad-giga-chad.gif"  />
+  <img height="500" src="https://media1.tenor.com/m/QQKWGA9XcrcAAAAC/gigachad-giga-chad.gif"  />
 </div>
 
 <h3 align="center">A passionate developer from India!</h3>
