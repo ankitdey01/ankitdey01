@@ -37,6 +37,9 @@ I'm always eager to learn more, improve my skills, and collaborate on exciting w
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdey01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ankitdey01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
