@@ -11,11 +11,8 @@ I have well experience on JavaScript, TypeScript, Python, C, C++, HTML, CSS, Mon
 
 I'm always eager to learn more, improve my skills, and collaborate on exciting web-based projects. Currently looking to expand my knowledge in scalable backend systems and modern frontend frameworks.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitdey01&label=Profile%20views&color=0e75b6&style=flat" alt="ankitdey01" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitdey01" alt="ankitdey01" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/ankitdey01" target="blank"><img src="https://img.shields.io/twitter/follow/ankitdey01?logo=twitter&style=for-the-badge" alt="ankitdey01" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -36,9 +33,6 @@ I'm always eager to learn more, improve my skills, and collaborate on exciting w
   <img src="https://github-readme-stats.vercel.app/api?username=ankitdey01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdey01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ankitdey01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
