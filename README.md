@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit Dey</h1>
+
+<div align="center">
+  <img height="200" src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif"  />
+</div>
+
 <h3 align="center">A passionate developer from India!</h3>
 <h3 align="center">An undergraduate student pursuing Computer Engineering with a strong interest in building things that live on the internet. I enjoy turning ideas into real actual usable tools and experiences.
 
