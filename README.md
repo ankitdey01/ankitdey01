@@ -20,7 +20,7 @@ I'm always eager to learn more, improve my skills, and collaborate on exciting w
 </p>
 
 <div align="center">
-  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ3aTF6dXczdDFxdXF0NW1pc3Z6NXpsNnFhamR5Z2w0YnMyZ2VkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ3aTF6dXczdDFxdXF0NW1pc3Z6NXpsNnFhamR5Z2w0YnMyZ2VkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
