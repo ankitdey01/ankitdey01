@@ -12,7 +12,12 @@ I have well experience on JavaScript, TypeScript, Python, C, C++, HTML, CSS, Mon
 I'm always eager to learn more, improve my skills, and collaborate on exciting web-based projects. Currently looking to expand my knowledge in scalable backend systems and modern frontend frameworks.</h3>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ankitdey01&theme=dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
