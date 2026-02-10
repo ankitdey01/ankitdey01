@@ -25,19 +25,19 @@ Perpetually engaged in the pursuit of technical excellence, I continuously refin
 <div align="center">
 
 ### 🤖 Conversational AI & Automation Infrastructure
-I have engineered **sophisticated Discord bot ecosystems** that leverage state-of-the-art natural language processing capabilities through OpenAI's GPT architecture. These autonomous agents incorporate **advanced command handler architectures**, **event-driven programming paradigms**, and **persistent NoSQL data persistence layers** using MongoDB, enabling seamless user interaction management, comprehensive reporting mechanisms, and intelligent contextual response generation across distributed server networks.
+
 
 ### 🌐 Enterprise-Grade Web Applications
-My portfolio encompasses the development of **production-ready web platforms** utilizing modern reactive frameworks such as React with TypeScript, augmented by sophisticated animation libraries like Framer Motion and utility-first CSS frameworks including Tailwind. I've architected **feature-rich SaaS solutions** ranging from artisanal e-commerce landing pages with integrated Zomato API functionality, to comprehensive gym management portals with class scheduling systems, to whimsical interactive web experiences—all engineered with meticulous attention to performance optimization, responsive design principles, and intuitive user experience paradigms.
+
 
 ### 🧠 Artificial Intelligence & Computer Vision Systems
-I've pioneered the implementation of **real-time facial landmark detection systems** utilizing MediaPipe's cutting-edge machine learning models for 468-point mesh topology reconstruction. This sophisticated application performs **sub-millisecond gaze vector estimation**, **Eye Aspect Ratio (EAR) computations** for blink detection, and **multi-dimensional attention state classification**—demonstrating proficiency in advanced geometric algorithms, temporal consistency optimization, and production-grade computer vision pipeline architecture. Applications span e-learning engagement monitoring, driver drowsiness detection, and human-computer interaction research.
+
 
 ### ⛓️ Decentralized Blockchain Solutions
-Demonstrated expertise in **distributed ledger technology** through the development of smart contracts on the Solana blockchain ecosystem. My contributions include the **ChainHealth protocol**—a cryptographically secure, verifiable medical data ledger implementing privacy-preserving hash-based record storage with comprehensive access control mechanisms. This showcases proficiency in Solidity smart contract development, decentralized application (dApp) architecture, and blockchain security best practices.
+
 
 ### ⚡ Workflow Automation & System Integration
-Architected **sophisticated automation pipelines** utilizing n8n low-code platforms for appointment scheduling orchestration. These systems integrate seamlessly with Google Sheets API, implement temporal scheduling algorithms, and demonstrate mastery of **webhook-driven architectures** and **RESTful service integration patterns** for streamlined business process automation.
+
 
 </div>
 
