@@ -100,8 +100,8 @@ Perpetually engaged in the pursuit of technical excellence, I continuously refin
 
 <div align="center">
 
-| Domain | Key Technologies |
-|--------|------------------|------------------|
+| Domain |   Key Technologies  |
+|--------|------------------|
 | **Full-Stack Web Development** | React, TypeScript, Node.js, Express |
 | **Conversational AI & NLP** | OpenAI GPT, Discord.js, Async Processing |
 | **Computer Vision & ML** | MediaPipe, OpenCV, Real-time Detection |
