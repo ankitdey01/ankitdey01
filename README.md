@@ -102,13 +102,13 @@ Perpetually engaged in the pursuit of technical excellence, I continuously refin
 
 | Domain | Proficiency Level | Key Technologies |
 |--------|------------------|------------------|
-| **Full-Stack Web Development** | ⭐⭐⭐⭐⭐ | React, TypeScript, Node.js, Express |
-| **Conversational AI & NLP** | ⭐⭐⭐⭐⭐ | OpenAI GPT, Discord.js, Async Processing |
-| **Computer Vision & ML** | ⭐⭐⭐⭐ | MediaPipe, OpenCV, Real-time Detection |
-| **Blockchain & Smart Contracts** | ⭐⭐⭐⭐ | Solidity, Solana, Cryptographic Systems |
-| **Cloud Infrastructure** | ⭐⭐⭐⭐ | AWS Services, Scalable Architectures |
-| **Database Architecture** | ⭐⭐⭐⭐ | MongoDB, NoSQL, Data Persistence |
-| **System Automation** | ⭐⭐⭐⭐ | n8n, Workflow Orchestration, API Integration |
+| **Full-Stack Web Development** | React, TypeScript, Node.js, Express |
+| **Conversational AI & NLP** | OpenAI GPT, Discord.js, Async Processing |
+| **Computer Vision & ML** | MediaPipe, OpenCV, Real-time Detection |
+| **Blockchain & Smart Contracts** | Solidity, Solana, Cryptographic Systems |
+| **Cloud Infrastructure** | AWS Services, Scalable Architectures |
+| **Database Architecture** | MongoDB, NoSQL, Data Persistence |
+| **System Automation** | n8n, Workflow Orchestration, API Integration |
 
 </div>
 
