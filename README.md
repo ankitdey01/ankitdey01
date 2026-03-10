@@ -100,7 +100,7 @@ Perpetually engaged in the pursuit of technical excellence, I continuously refin
 
 <div align="center">
 
-| Domain | Proficiency Level | Key Technologies |
+| Domain | Key Technologies |
 |--------|------------------|------------------|
 | **Full-Stack Web Development** | React, TypeScript, Node.js, Express |
 | **Conversational AI & NLP** | OpenAI GPT, Discord.js, Async Processing |
