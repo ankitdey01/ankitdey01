@@ -4,7 +4,7 @@
   <img height="300" src="https://media1.tenor.com/m/QQKWGA9XcrcAAAAC/gigachad-giga-chad.gif"  />
 </div>
 
-<h3 align="center">🚀 Full-Stack Architect | AI Enthusiast | Blockchain Innovator</h3>
+<h3 align="center">🚀 Full-Stack Architect | AI Enthusiast </h3>
 
 <p align="center">
 An enterprising Computer Engineering undergraduate with an insatiable passion for architecting revolutionary digital ecosystems. I specialize in transmuting abstract conceptualizations into tangible, production-grade applications that transcend conventional boundaries of web technologies.
