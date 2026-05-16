@@ -127,42 +127,42 @@ tools:
 
 ## Interface: `domains`
 
-<div align="center">
+```md
+Full-Stack Web Development
+- React
+- TypeScript
+- Node.js
+- Express
 
-| Domain | Key Technologies |
-|--------|------------------|
-| **Full-Stack Web Development** | React, TypeScript, Node.js, Express |
-| **Conversational AI & NLP** | OpenAI GPT, Discord.js, Async Processing |
-| **Computer Vision & ML** | MediaPipe, OpenCV, Real-time Detection |
-| **Blockchain & Smart Contracts** | Solidity, Solana, Cryptographic Systems |
-| **Cloud Infrastructure** | AWS Services, Scalable Architectures |
-| **Database Architecture** | MongoDB, NoSQL, Data Persistence |
-| **System Automation** | n8n, Workflow Orchestration, API Integration |
+Conversational AI + NLP
+- OpenAI GPT
+- Discord.js
+- Async Processing
 
-</div>
+Computer Vision + ML
+- MediaPipe
+- OpenCV
+- Real-time Detection
 
----
+Blockchain + Smart Contracts
+- Solidity
+- Solana
+- Cryptographic Systems
 
-## 🏆 GitHub Trophies
+Cloud Infrastructure
+- AWS Services
+- Scalable Architectures
 
-<div align="center">
+Database Architecture
+- MongoDB
+- NoSQL
+- Data Persistence
 
-![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
-## Interface: `stats`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitdey01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdey01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitdey01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-</div>
+System Automation
+- n8n
+- Workflow Orchestration
+- API Integration
+```
 
 ---
 
