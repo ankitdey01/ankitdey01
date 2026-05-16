@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <b>Full-Stack Architect • AI Enthusiast • Builder</b>
+  <b>Full-Stack Architect • AI Systems Developer • Builder</b>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/ankit-dey-0128x" target="blank">LinkedIn</a> ·
   <a href="https://twitter.com/ankitdey01" target="blank">X (Twitter)</a> ·
-  <a href="https://instagram.com/aankkittt" target="blank">Instagram</a>
+  <a href="https://instagram.com/livankit" target="blank">Instagram</a>
 </p>
 
 <div align="center">
