@@ -1,106 +1,127 @@
-<h1 align="center">Hi 👋, I'm Ankit Dey and I love getting shits done</h1>
-
-<div align="center">
-  <img height="300" src="https://media1.tenor.com/m/QQKWGA9XcrcAAAAC/gigachad-giga-chad.gif"  />
-</div>
-
-<h3 align="center">🚀 Full-Stack Architect | AI Enthusiast </h3>
+<h1 align="center">
+  👋 Hi, I’m <span style="color:#4f46e5">Ankit Dey</span>
+</h1>
 
 <p align="center">
-An enterprising Computer Engineering undergraduate with an insatiable passion for architecting revolutionary digital ecosystems. I specialize in transmuting abstract conceptualizations into tangible, production-grade applications that transcend conventional boundaries of web technologies.
+  <b>Full-Stack Architect • AI Enthusiast • Builder</b>
 </p>
 
 <p align="center">
-My technological arsenal encompasses a comprehensive spectrum of cutting-edge frameworks and paradigms including JavaScript/TypeScript ecosystems, Pythonic computational frameworks, low-level system programming with C/C++, alongside proficiency in cloud-native architectures via AWS and distributed database systems utilizing MongoDB. My current endeavors converge at the intersection of sophisticated web engineering, autonomous bot orchestration, decentralized ledger technologies, and advanced computer vision systems.
+  I design and ship scalable web systems, automation pipelines, and AI-powered experiences.
 </p>
 
 <p align="center">
-Perpetually engaged in the pursuit of technical excellence, I continuously refine my craft through hands-on experimentation with emerging technologies and collaborative ventures in pioneering software initiatives. Currently expanding my expertise in horizontally scalable backend microservices and contemporary reactive frontend paradigms.
+  <a href="https://linkedin.com/in/ankit-dey-0128x" target="blank">LinkedIn</a> ·
+  <a href="https://twitter.com/ankitdey01" target="blank">X (Twitter)</a> ·
+  <a href="https://instagram.com/aankkittt" target="blank">Instagram</a>
 </p>
 
----
-
-## 💎 Portfolio Highlights & Technical Accomplishments
-
 <div align="center">
-
-### 🤖 Conversational AI & Automation Infrastructure
-
-
-### 🌐 Enterprise-Grade Web Applications
-
-
-### 🧠 Artificial Intelligence & Computer Vision Systems
-
-
-### ⛓️ Decentralized Blockchain Solutions
-
-
-### ⚡ Workflow Automation & System Integration
-
-
+  <img height="260" src="https://media1.tenor.com/m/QQKWGA9XcrcAAAAC/gigachad-giga-chad.gif" />
 </div>
 
 ---
 
+## Interface: `whoami`
+
+```bash
+$ whoami
+> Ankit Dey
+
+$ role
+> Full-Stack Architect | AI Enthusiast
+
+$ location
+> India 🇮🇳 (Global / Remote)
+
+$ current_focus
+> Full-Stack Systems, AI Automation, Computer Vision, Developer Tooling
+```
+
+---
+
+## Interface: `about --verbose`
+
+```ts
+interface EngineerProfile {
+  role: string[];
+  superpower: string;
+  philosophy: string;
+  focusAreas: string[];
+}
+
+const ankit: EngineerProfile = {
+  role: [
+    "Full-Stack Engineer",
+    "AI / Automation Builder",
+    "Systems & Product Architect",
+  ],
+  superpower:
+    "Turning messy real-world problems into clean, scalable systems that ship.",
+  philosophy:
+    "Great engineering is equal parts taste, execution, and iteration — ship fast, refine relentlessly.",
+  focusAreas: [
+    "Conversational AI & Bots",
+    "Workflow Automation & Integrations",
+    "Computer Vision & Real-time Systems",
+    "Enterprise Web Applications",
+    "Cloud Infrastructure & DevOps",
+  ],
+};
+```
+
+---
+
+## Interface: `portfolio`
+
+### 💎 Highlights & Technical Accomplishments
+
+- 🤖 **Conversational AI & Automation Infrastructure** — bots, async processing, agent workflows
+- 🌐 **Enterprise-Grade Web Applications** — scalable frontends & APIs
+- 🧠 **Artificial Intelligence & Computer Vision Systems** — real-time detection and applied ML
+- ⚡ **Workflow Automation & System Integration** — API orchestration, automation pipelines
+- ⛓️ **Exploring Blockchain Systems** — smart contracts and protocol experimentation
+
 <div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ3aTF6dXczdDFxdXF0NW1pc3Z6NXpsNnFhamR5Z2w0YnMyZ2VkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif"  />
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ3aTF6dXczdDFxdXF0NW1pc3Z6NXpsNnFhamR5Z2w0YnMyZ2VkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" />
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+## Interface: `tech --stack`
 
-</div>
+```yaml
+languages:
+  - JavaScript
+  - TypeScript
+  - Python
+  - C
+  - C++
 
----
+frameworks_libraries:
+  - React
+  - Node.js
+  - Express
+  - Discord.js
+  - Bootstrap
 
-## 💻 Technical Competencies & Technological Stack
+infra_databases:
+  - Git
+  - MongoDB
+  - AWS
+  - HTML5
 
-<div align="center">
-
-### Programming Languages & Core Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-
-### Frameworks, Libraries & Development Ecosystems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-
-### Infrastructure, DevOps & Database Systems
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-
-### Specialized Tools & Creative Applications
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-
-</div>
+tools:
+  - Blender
+```
 
 ---
 
-## 🎯 Domain Expertise
+## Interface: `domains`
 
 <div align="center">
 
-| Domain |   Key Technologies  |
+| Domain | Key Technologies |
 |--------|------------------|
 | **Full-Stack Web Development** | React, TypeScript, Node.js, Express |
 | **Conversational AI & NLP** | OpenAI GPT, Discord.js, Async Processing |
@@ -114,36 +135,47 @@ Perpetually engaged in the pursuit of technical excellence, I continuously refin
 
 ---
 
-## 📊 GitHub Analytics & Performance Metrics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitdey01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdey01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ankitdey01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+![](https://github-profile-trophy.vercel.app/?username=ankitdey01&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 ---
 
-## 🤝 Professional Network & Collaboration
+## Interface: `stats`
 
-<p align="center">
-<a href="https://twitter.com/ankitdey01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitdey01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-dey-0128x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-dey-0128x" height="30" width="40" /></a>
-<a href="https://instagram.com/aankkittt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="annkkitt" height="30" width="40" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ankitdey01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitdey01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="170" />
+</div>
 
-<p align="center">
-  <em>Open to collaborative ventures, technical consultations, and innovative project partnerships</em>
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ankitdey01&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
 
 ---
 
+## Interface: `contact`
+
+```bash
+$ reach --me
+> twitter: @ankitdey01
+> linkedin: linkedin.com/in/ankit-dey-0128x
+> instagram: @aankkittt
+```
+
+---
+
+<p align="center">
+  <i>
+    "Engineering tomorrow’s digital paradigms through algorithmic innovation and relentless optimization."
+  </i>
+</p>
+
 <div align="center">
-  
-### 💡 "Engineering tomorrow's digital paradigms through algorithmic innovation and relentless optimization"
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ankitdey01&color=blueviolet&style=flat-square)
 
