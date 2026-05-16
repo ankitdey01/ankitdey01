@@ -35,7 +35,7 @@ $ location
 > India 🇮🇳 (Global / Remote)
 
 $ current_focus
-> Full-Stack Systems, AI Automation, Computer Vision, Developer Tooling
+> Full-Stack Systems, AI Orchestration Pipelines, ZK-Proof Blockchain, Developer Tooling
 ```
 
 ---
@@ -53,15 +53,15 @@ interface EngineerProfile {
 const ankit: EngineerProfile = {
   role: [
     "Full-Stack Engineer",
-    "AI / Automation Builder",
+    "AI Systems",
     "Systems & Product Architect",
   ],
   superpower:
     "Turning messy real-world problems into clean, scalable systems that ship.",
   philosophy:
-    "Great engineering is equal parts taste, execution, and iteration — ship fast, refine relentlessly.",
+    "Great engineering is equal parts taste, execution, and iteration, ship fast, refine relentlessly.",
   focusAreas: [
-    "Conversational AI & Bots",
+    "Conversational AI, Bots & MCP integrations",
     "Workflow Automation & Integrations",
     "Computer Vision & Real-time Systems",
     "Enterprise Web Applications",
