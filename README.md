@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  I design and ship scalable web systems, automation pipelines, and AI-powered experiences.
+  Designing scalable web systems, automation pipelines, and AI-powered experiences.
 </p>
 
 <p align="center">
@@ -74,17 +74,25 @@ const ankit: EngineerProfile = {
 
 ## Interface: `portfolio`
 
-### 💎 Highlights & Technical Accomplishments
+```md
+Full-Stack Systems
+- Enterprise-grade web apps (React, TypeScript)
+- Scalable APIs & backend architecture (Node.js, Express)
+- Auth, performance, and reliability engineering
 
-- 🤖 **Conversational AI & Automation Infrastructure** — bots, async processing, agent workflows
-- 🌐 **Enterprise-Grade Web Applications** — scalable frontends & APIs
-- 🧠 **Artificial Intelligence & Computer Vision Systems** — real-time detection and applied ML
-- ⚡ **Workflow Automation & System Integration** — API orchestration, automation pipelines
-- ⛓️ **Exploring Blockchain Systems** — smart contracts and protocol experimentation
+AI + Automation
+- Conversational bots and AI agents (OpenAI GPT)
+- Workflow orchestration and integrations (n8n)
+- Async job processing + event-driven pipelines
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZ3aTF6dXczdDFxdXF0NW1pc3Z6NXpsNnFhamR5Z2w0YnMyZ2VkMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" />
-</div>
+Computer Vision
+- Real-time detection prototypes (MediaPipe, OpenCV)
+- Applied ML experimentation for product features
+
+Blockchain (Exploration)
+- Smart contract experiments (Solidity)
+- Solana ecosystem exploration
+```
 
 ---
 
