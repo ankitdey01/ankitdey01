@@ -29,7 +29,7 @@ $ whoami
 > Ankit Dey
 
 $ role
-> Full-Stack Architect | AI Enthusiast
+> Full-Stack Architect | Backend AI Systems Dev
 
 $ location
 > India 🇮🇳 (Global / Remote)
